@@ -21,9 +21,9 @@
 
 ## ```Bot Support Groups```
 
-- [`1st GC`](https://chat.whatsapp.com/DJVpD9p2HZy1IjD6RT7LMG)
-- [`2nd GC`](https://chat.whatsapp.com/GAuAnrTrjLlKhAUPoS5xM2)
-- [`3rd GC`](https://chat.whatsapp.com/F4O07g0m1zH2ybnT8W4tsd)
+- [`1st GC`](https://is.gd/i4Cmy1)
+- [`2nd GC`](https://is.gd/i4Cmy1)
+- [`3rd GC`](https://is.gd/i4Cmy1)
 
 # Install Manually 👇
 ## `Requirements`
